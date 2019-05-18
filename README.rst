@@ -35,3 +35,9 @@ Project resources
 
 - `Source code <https://github.com/taschenb/mopidy-qobuz>`_
 - `Issue tracker <https://github.com/taschenb/mopidy-qobuz/issues>`_
+
+
+Disclaimer
+==========
+
+This application uses the Qobuz API but is not certified by Qobuz. Any use of the API implies your full acceptance of the Qobuz General Terms and Conditions (http://static.qobuz.com/apps/api/QobuzAPI-TermsofUse.pdf)
